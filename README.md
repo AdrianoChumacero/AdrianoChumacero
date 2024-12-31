@@ -51,7 +51,7 @@
 
 <p align="center">
 	<a href="mailto:adrianochumacero@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="My Skills"/></a>
-	<a href="https://www.linkedin.com/in/adrianochumacero/"><img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills" target="_blank"/></a>
+	<a href="www.linkedin.com/in/joel-adriano-chumacero-valdiviezo-239921267"><img src="https://skillicons.dev/icons?i=linkedin" alt="My Skills" target="_blank"/></a>
 </p>
 
 ---
